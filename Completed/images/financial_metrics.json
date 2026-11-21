@@ -1,0 +1,11 @@
+{
+    "optimal_threshold": 0.25,
+    "targeted_population": 92640,
+    "retained_subscribers": 13539,
+    "gross_revenue_saved": 9423617.280000001,
+    "campaign_offer_cost": 4632000.0,
+    "fixed_system_cost": 200000.0,
+    "max_net_profit_lift": 4591617.280000001,
+    "campaign_net_roi": 95.02519205298016,
+    "baseline_churn_revenue_loss": 34493760.0
+}
